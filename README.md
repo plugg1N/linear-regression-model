@@ -4,7 +4,7 @@ This is my second project on Machine Learning. My first project was commercial -
 
 There is a csv file, that represents information *(factors)* that has some hidden relation to G3 (grade in third year)
 
-![](https://github.com/plugg1N/linear-regression-model/blob/main/Images/image.jpg?raw=true)
+![](https://github.com/plugg1N/linear-regression-model/blob/main/Images/image.png?raw=true)
 
 
 As I discovered in **"main.ipynb"**, "G1" *(or grade in the first year)* has the biggest correlation coefficient to G3. Also, "age" has second biggest influence on predicted value
